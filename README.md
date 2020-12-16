@@ -10,17 +10,10 @@ Copy paste following markdown into your markdown content, and that's it. Easy Ea
 
 Change the `?username=` value to your Medium's username.
 
-```md
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=omidnikrah)](https://medium.com/@omidnikrah)
-```
-
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=omidnikrah)](https://medium.com/@omidnikrah)
+[![Daniellop1 Medium](https://github-readme-medium.vercel.app/?username=daniellop1)](https://medium.com/@daniellop1)
 
 ## Options
 |    Name    |           Description           |        Default value       |
 | ---------- | ------------------------------- | -------------------------- |
 | username   | Your Medium username            | REQUIRED                |
 | limit      | Count of articles to show       | 1                          |
-
-## Deploy your own
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/git?s=https://github.com/omidnikrah/github-readme-medium)
